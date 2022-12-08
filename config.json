@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": false,
+    "opencl": false,
+    "cuda": true,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "cn/gpu",
+            "url": "pool.hashvault.pro:5555",
+            "user": "ccx7ZQoEgHHRTxMNbLucjBGZUdWUsMzV3WgCcPpwyM89c6EYXHuQqkq6FUqXzgytbUhta46RdgSoJQzkiNK3sKSD2cCYLoAbR5",
+            "pass": "x",
+            "tls": true,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
